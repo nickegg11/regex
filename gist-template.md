@@ -58,14 +58,56 @@ Below we will explore the different components of this regex.
 
 ### Bracket Expressions
 
+#### [...] - Character class
+#### [^...] - Negated character class
+#### [a-z] - Character class
+#### [^a-z] - Negated character class
+#### [ABC] - Character class
+#### [^ABC] - Negated character class
+#### [\s\S] - Any character 
+
+
 ### Character Classes
+
+#### \w - Word character
+#### \W - Non-word character
+#### \d - Digit
+#### \D - Non-digit
+#### \s - Whitespace
+#### \S - Non-whitespace
+#### \p - Unicode property
+#### \P - Non-Unicode property
+#### \b - Word boundary
+#### \B - Non-word boundary
+#### . - Any character
 
 ### The OR Operator
 
+#### | - OR operator matches either of the two patterns
+
 ### Flags
+
+#### i - Case-insensitive (ignores case)
+#### m - Multiline (finds newline characters)
+#### s - Singleline (finds newline characters)
+#### x - Extended (allows comments)
+#### u - Unicode (finds unicode characters)
+#### g - Global (finds all matches)
+#### y - Verbose (finds newline characters)
 
 ### Character Escapes
 
-## Author
+#### \n - Newline character
+#### \t - Tab character
+#### \r - Carriage return character
+#### \f - Form feed character
+#### \b - Backspace character
+#### \a - Bell character
+#### \v - Vertical tab character
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+## Author
+### Nicholas Eggleston 
+A student through edX Bootcamp @ Michigan State University
+
+Please contact me on 
+[GitHub Profile](https://github.com/nickegg11)
