@@ -111,3 +111,5 @@ A student through edX Bootcamp @ Michigan State University
 
 Please contact me on 
 [GitHub Profile](https://github.com/nickegg11)
+### Gist Link
+[Gist](https://gist.github.com/nickegg11/97b21a7b0938fc423208e82ce8082fe8)
